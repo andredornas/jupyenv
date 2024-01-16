@@ -67,7 +67,7 @@
         "{connection_file}"
       ];
       codemirrorMode = "julia";
-      logo64 = ./logo64.png;
+      logo64 = ./logo-64x64.png;
     };
   in {
     options =

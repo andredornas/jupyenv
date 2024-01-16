@@ -118,7 +118,7 @@
         "{connection_file}"
       ];
       codemirrorMode = "typescript";
-      logo64 = ./logo64.png;
+      logo64 = ./logo-64x64.png;
     };
   in {
     options =
